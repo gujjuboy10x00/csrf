@@ -1,4 +1,4 @@
 # csrf
 admin
 cool
-yeah amdik
+yeah amdika sam
